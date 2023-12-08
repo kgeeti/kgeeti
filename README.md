@@ -5,7 +5,13 @@
 - Postgraduate in Computer Networks
 
 ## About Me
-I enjoy adventures! A technology and development enthusiast, driven by the challenges of creating innovative and efficient solutions. My background in Systems Analysis and postgraduate studies in Computer Networks has provided a solid foundation to explore and understand the vast spectrum of the computing world.
+I enjoy adventures! A technology and development enthusiast, motivated by the challenges of innovative and efficient solutions. My background in Systems Analysis and postgraduate studies in Computer Networks has provided an excellent foundation to explore and comprehend the vast spectrum of the computing world.
+
+I am a teacher and passionate about what I do. Every day is a new lesson.
+
+Interested in private programming lessons? Contact :wink: :+1:
+
+Here is different!
 
 ## Skills
 ### Programming Languages
