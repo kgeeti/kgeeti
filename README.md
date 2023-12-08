@@ -32,3 +32,9 @@ Here is different!
 - Microsoft AI-900
 - Oracle Java Foundations
 - AWS Certified Practitioner
+
+:link: [Linkedin](https://www.linkedin.com/in/kleber-gelli-7a28a119/)
+
+:link: [GitHub](https://github.com/kgeeti)
+
+
